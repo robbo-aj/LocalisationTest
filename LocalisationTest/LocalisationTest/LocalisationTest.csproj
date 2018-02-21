@@ -45,6 +45,9 @@
     <EmbeddedResource Update="Resources\AppResources.cy.resx">
       <Generator>ResXFileCodeGenerator</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Update="Resources\AppResources.da.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="Resources\AppResources.es.resx">
       <Generator>ResXFileCodeGenerator</Generator>
     </EmbeddedResource>

@@ -10,7 +10,7 @@ namespace LocalisationTest
 		public App ()
 		{
 			InitializeComponent();
-            CrossMultilingual.Current.CurrentCultureInfo = new CultureInfo("cy");
+            CrossMultilingual.Current.CurrentCultureInfo = new CultureInfo("da");
             AppResources.Culture = CrossMultilingual.Current.CurrentCultureInfo;
             MainPage = new MainPage();
 		}
