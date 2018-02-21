@@ -7,7 +7,7 @@
     <body>
       <group id="LOCALISATIONTEST/RESOURCES/APPRESOURCES.RESX" datatype="resx">
         <trans-unit id="MainPage_HelloWorldLabel" translate="yes" xml:space="preserve">
-          <source>Hello World Language Test</source>
+          <source>Hello, Good Morning, Have a nice day!</source>
           <target state="final" state-qualifier="mt-suggestion">Hola mundo lenguaje prueba</target>
         </trans-unit>
       </group>

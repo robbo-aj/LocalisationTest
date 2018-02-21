@@ -61,7 +61,7 @@ namespace LocalisationTest.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Hello World Language Test.
+        ///   Looks up a localized string similar to Hello, Good Morning, Have a nice day!.
         /// </summary>
         internal static string MainPage_HelloWorldLabel {
             get {

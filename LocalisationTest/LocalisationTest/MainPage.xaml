@@ -7,7 +7,8 @@
     x:Class="LocalisationTest.MainPage">
 
 	<Label 
-        Text="{translate:Translate MainPage_HelloWorldLabel}" 
+        Text="{translate:Translate MainPage_HelloWorldLabel}"
+        LineBreakMode="WordWrap"
         VerticalOptions="Center" 
         HorizontalOptions="Center" />
 
